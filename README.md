@@ -6,5 +6,5 @@ Despite significant progress, the high computational cost makes existing precipi
 ```
 python main_test_example_era5.py
 ```
-# Demo
-![](test/img/LU-SSD/all/Chanthu_LU-SSD.gif)
+# Demo 
+![Super Typhoon Chanthu](test/img/LU-SSD/all/Chanthu_LU-SSD.gif)
