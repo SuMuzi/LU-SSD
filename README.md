@@ -19,18 +19,48 @@ python main_test_example_era5.py
   <tr>
     <td>
       <img src="test/img/lr/Chanthu_lr.gif" width="100%" />
-      <img src="test/img/gt/Chanthu_gt.gif" width="100%" />
-      <img src="test/img/Bicubic/Chanthu_Bicubic.gif" width="100%" />
-      <img src="test/img/RAINFARM/Chanthu_RAINFARM.gif" width="100%" />
-      <img src="test/img/SRDRN/all/Chanthu_SRDRN.gif" width="100%" />
-      <img src="test/img/LU-SSD/all/Chanthu_LU-SSD.gif" width="100%" />
     </td>
     <td>
       <img src="test/img/lr/In-fa_lr.gif" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="test/img/gt/Chanthu_gt.gif" width="100%" />
+    </td>
+    <td>
       <img src="test/img/gt/In-fa_gt.gif" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="test/img/Bicubic/Chanthu_Bicubic.gif" width="100%" />
+    </td>
+    <td>
       <img src="test/img/Bicubic/In-fa_Bicubic.gif" width="100%" />
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <img src="test/img/RAINFARM/Chanthu_RAINFARM.gif" width="100%" />
+    </td>
+    <td>
       <img src="test/img/RAINFARM/In-fa_RAINFARM.gif" width="100%" />
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <img src="test/img/SRDRN/all/Chanthu_SRDRN.gif" width="100%" />
+    </td>
+    <td>
       <img src="test/img/SRDRN/all/In-fa_SRDRN.gif" width="100%" />
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <img src="test/img/LU-SSD/all/Chanthu_LU-SSD.gif" width="100%" />
+    </td>
+    <td>
       <img src="test/img/LU-SSD/all/In-fa_LU-SSD.gif" width="100%" />
     </td>
   </tr>
