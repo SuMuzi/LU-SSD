@@ -19,19 +19,9 @@ python main_test_example_era5.py
   <tr>
     <td>
       <img src="test/img/LU-SSD/all/Chanthu_LU-SSD.gif" width="100%" />
-      <ul>
-        <li>分辨率: 0.25° (~25km)</li>
-        <li>来源: ERA5 再分析</li>
-        <li>变量: 11 个气象场</li>
-      </ul>
     </td>
     <td>
       ![In-fa](test/img/LU-SSD/all/In-fa_LU-SSD.gif)
-      <ul>
-        <li>分辨率: 2km</li>
-        <li>方法: LU-SSD 超分</li>
-        <li>提升: 12.5× 空间细节</li>
-      </ul>
     </td>
   </tr>
 </table>
