@@ -10,5 +10,28 @@ Python 3.8+, PyTorch 2.1 and Ubuntu or CenterOS.
 python main_test_example_era5.py
 ```
 # Demo 
-![Chanthu](test/img/LU-SSD/all/Chanthu_LU-SSD.gif)
-![In-fa](test/img/LU-SSD/all/In-fa_LU-SSD.gif)
+
+<table>
+  <tr>
+    <th width="50%">Super Typhoon Chanthu (No.2114)</th>
+    <th width="50%">Severe Typhoon In-Fa (No.2106)</th>
+  </tr>
+  <tr>
+    <td>
+      ![Chanthu](test/img/LU-SSD/all/Chanthu_LU-SSD.gif)
+      <ul>
+        <li>分辨率: 0.25° (~25km)</li>
+        <li>来源: ERA5 再分析</li>
+        <li>变量: 11 个气象场</li>
+      </ul>
+    </td>
+    <td>
+      ![In-fa](test/img/LU-SSD/all/In-fa_LU-SSD.gif)
+      <ul>
+        <li>分辨率: 2km</li>
+        <li>方法: LU-SSD 超分</li>
+        <li>提升: 12.5× 空间细节</li>
+      </ul>
+    </td>
+  </tr>
+</table>
