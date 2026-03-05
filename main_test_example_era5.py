@@ -113,9 +113,9 @@ if __name__ == '__main__':
     parser.add_argument('--data_norm_mode', type=str, default='norm',
                         help='data process mode')
 
-    parser.add_argument('--lr_statistics_path', type=str, default=f'./data/era5_{dataset_name}.json',
+    parser.add_argument('--lr_statistics_path', type=str, default=f'./data/lr.json',
                         help='lr dataset mean, std file')
-    parser.add_argument('--hr_statistics_path', type=str, default=f'./data/{dataset_name}.json',
+    parser.add_argument('--hr_statistics_path', type=str, default=f'./data/gt.json',
                         help='hr dataset mean, std file')
 
     parser.add_argument('--log_dir', type=str, default='',
