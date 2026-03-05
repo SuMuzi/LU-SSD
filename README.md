@@ -18,7 +18,7 @@ python main_test_example_era5.py
   </tr>
   <tr>
     <td>
-      ![Chanthu](test/img/LU-SSD/all/Chanthu_LU-SSD.gif)
+      <img src="test/img/LU-SSD/all/Chanthu_LU-SSD.gif" width="100%" />
       <ul>
         <li>分辨率: 0.25° (~25km)</li>
         <li>来源: ERA5 再分析</li>
