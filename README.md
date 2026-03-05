@@ -34,7 +34,9 @@ Used testing sets can be downloaded as follows:
 ```
 python test.py
 ```
+
 ## Results
+![Demo](test/img/LU-SSD/all/Chanthu_LU-SSD.gif)
 <p align="center">
-  <img width="900" src="https://github.com/SuMuzi/LU-M2SR/results/results.png">
+  <img width="900" src="https://github.com/SuMuzi/LU-SSD/test/img/LU-SSD/all/Chanthu_LU-SSD.gif">
 </p>
