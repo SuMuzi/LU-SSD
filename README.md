@@ -8,3 +8,4 @@ python main_test_example_era5.py
 ```
 # Demo 
 ![Chanthu](test/img/LU-SSD/all/Chanthu_LU-SSD.gif)
+![Chanthu](test/img/LU-SSD/all/In-fa_LU-SSD.gif)
